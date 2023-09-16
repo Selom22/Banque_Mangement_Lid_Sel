@@ -1,2 +1,2 @@
-# Banque_Mangement_Lid_Sel
-Projet Banque
+# Banque-Management
+Banque Management with Python Cli
